@@ -1,2 +1,5 @@
 # Simple-CPU-scheduling-simulator
-*** Incomplete *** a simple CPU scheduling simulator reading processes values from a txt file taking CLI arguments
+*** Incomplete ***
+A simple CPU scheduling simulator, simulates FCFS,SJFS(+preemptive),Priosity(+preemtive) and Round Robin scheduling methods using data structure.
+reads processes values from a txt file and taking CLI arguments.
+
